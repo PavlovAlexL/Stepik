@@ -25,3 +25,7 @@ target
 *.iml
 target
 stepic_java_webserver/
+
+**/.idea
+**.iml
+**/target
